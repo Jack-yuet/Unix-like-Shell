@@ -6,7 +6,6 @@ The `msh` project is a custom Unix-like shell, developed as a course project in 
 ## Project Structure
 
 ### Directory Layout
-```plaintext
 ├── bin                # Contains the compiled msh executable
 ├── data               # Stores auxiliary data, including shell history
 ├── include            # Header files for the shell modules
